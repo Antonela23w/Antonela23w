@@ -1,0 +1,23 @@
+
+h1{
+background-color: aqua;
+
+}
+
+body{
+    background-color: #87bfcc00;
+}
+
+
+
+header{
+    width: 100%;
+    height: 50px;
+}
+
+segundo{
+    color:var(--color-secondary); 
+    font-family: var(--font-title);
+    font-size: var(--size-font-m);
+ 
+}
